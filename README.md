@@ -10,3 +10,5 @@ Director and Administrator need to enter their id and passoword to login to the 
 
 When the code is run all the classes and objects are populated by the data present in files. When the system is shut down all the data is uploaded to the files
 Data persistence ensured by text files
+
+Followed the famous SOLID Principles of Software Design and Analysis
